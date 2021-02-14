@@ -1,0 +1,5 @@
+export const GET_CHARACTERS = "GET_CHARACTERS"
+export const GET_LOCATIONS = "GET_LOCATIONS"
+export const FILTER_BY_NAME = "FILTER_BY_NAME"
+export const GET_EPISODES = "GET_EPISODES"
+export const SET_LOADING = "SET_LOADING"
